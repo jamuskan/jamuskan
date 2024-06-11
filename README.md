@@ -7,7 +7,7 @@
 </h3>
 
 <div align='center'>
-  <img src="https://komarev.com/ghpvc/?username=chetannada&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Muskhan ja&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 <br/>
 <img src="./Assets/Banner v3.png" alt="Front End Developer Banner" />
